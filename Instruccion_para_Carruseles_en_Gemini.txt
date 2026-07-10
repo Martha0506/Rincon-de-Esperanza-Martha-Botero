@@ -1,0 +1,168 @@
+Instrucción para Gemini — Carruseles de Rincón de Esperanza (Actualizada)
+Diseña un carrusel para Rincón de Esperanza con estilo espiritual, cálido, limpio, sereno, luminoso y esperanzador.
+
+Objetivo
+Crear una pieza visual para Instagram que comunique fe, esperanza, confianza en Dios, paz y propósito.
+
+Formato
+Tamaño: 1080 x 1350 px
+Orientación: vertical
+Estilo: editorial, minimalista y muy legible en celular
+
+Estructura del carrusel
+Haz un carrusel de 5 slides:
+
+Slide 1 — Portada
+Frase principal fuerte y emocional
+Mucha presencia visual
+Poco texto
+Debe captar la atención de inmediato
+
+Slides 2, 3 y 4 — Desarrollo
+Una sola idea por slide
+Texto breve
+No sobrecargar
+Mantener coherencia visual entre slides
+
+Slide 5 — Cierre
+Mensaje final corto y bonito
+Sensación de paz, fe y esperanza
+Sin explicar de más
+
+Reglas de diseño
+Hazlo muy limpio y minimalista
+Usa poco texto por slide
+Cada slide debe tener una sola idea
+Prioriza lectura rápida en celular
+Mantén una estética elegante, suave y luminosa
+No recargues con decoraciones innecesarias
+No uses recuadros pesados, marcos decorativos ni elementos que distraigan
+No pongas firmas, nombres ni créditos dentro de la imagen
+No incluyas “Magdala” ni “Martha”
+Si algo se ve cargado, simplifícalo
+El diseño debe sentirse espiritual pero moderno
+
+Tipografía exacta
+Usa esta tipografía exacta:
+
+Títulos
+Cormorant Garamond SemiBold
+Alternativa si necesitas algo más moderno: Montserrat ExtraBold
+
+Subtítulos 
+Montserrat Medium
+
+Texto de apoyo
+Poppins Regular
+
+Tamaños de letraTítulos
+72 a 96 px
+Si el título es muy corto, puede subir hasta 100 px
+Siempre en peso fuerte: SemiBold / Bold / ExtraBold
+
+Subtítulos (1/3)
+34 a 48 px
+Deben apoyar al título, no competir con él
+
+Texto de apoyo
+24 a 32 px
+Máximo 1 o 2 líneas
+
+Regla clave
+Si un texto no se lee fácil en celular, hazlo más grande o divídelo en otro slide.
+
+Reglas de corte de líneas
+No dejes líneas huérfanas ni palabras sueltas al final o al inicio de una línea.
+Balancea los quiebres para que cada bloque se vea centrado y parejo.
+Si un título queda con 1 palabra aislada o una última línea demasiado corta, rehaz el corte antes de exportar.
+Prioriza 2 o 3 líneas visualmente equilibradas para el título; usa 4 líneas solo si no hay otra opción.
+En Rincón de Esperanza, los subtítulos deben quedarse en 44 a 45 px y los saltos deben verse limpios, no forzados.
+
+Paleta de color
+Usa una paleta suave, espiritual y armoniosa.
+
+Colores sugeridosColores de Fondo variados (claro): crema / marfil / beige claro (aproximado: #F7F1E8) Y beige cálido (aproximado: #E9DDCE). [Integrado para forzar variación]
+Acento suave: verde salvia (aproximado: #A7B08A)
+Texto de Título: café oscuro / marrón cálido (aproximado: #6B5446)
+Texto de Subtítulo: gris cálido (aproximado: #7A746C) O dorado suave (aproximado: #C9A86A) [Asignado para contraste]
+Texto de Apoyo: gris cálido (aproximado: #7A746C)
+Acento especial: dorado suave o mostaza apagada (aproximado: #C9A86A)
+
+Reglas de color
+
+Varía el fondo entre slides para evitar monotonía. Alterna o rota entre los colores de fondo variados sugeridos. No uses el mismo fondo para todo el carrusel.
+
+Usa máximo 1 color principal + 1 color de acento por slide (sin contar el fondo).
+
+El fondo debe ser claro la mayor parte del tiempo
+
+No uses colores neón ni saturados
+
+Busca sensación de paz, luz, armonía y ternura
+
+El texto debe tener buen contraste y ser fácil de leer.
+
+Crucial: Títulos y subtítulos deben tener colores diferentes en el mismo slide para mayor contraste. Título debe ser el más oscuro (café oscuro), subtítulo el más claro o de acento (gris cálido o dorado suave), asegurando que el título sea el más legible.
+
+Diseño de los slidesSlide 1
+Título grande y protagonista
+Mucho aire alrededor
+Un solo foco visual
+Puede tener un detalle mínimo en color acento
+Fondo 1
+
+Slide 2
+Desarrollo breve
+Jerarquía clara
+Más calmado que la portada
+Si hay subtítulo, usa color de contraste.Fondo 2
+
+Slide 3
+Otra idea breve o afirmación espiritual
+Mantener el mismo sistema visual
+Si hay subtítulo, usa color de contraste.Fondo 1
+
+Slide 4
+Parte más reflexiva o profunda
+Sigue siendo limpio y simple
+Si hay subtítulo, usa color de contraste.Fondo 2
+
+Slide 5
+Cierre corto
+Mensaje final esperanzador
+Sin recargar
+Fondo 1
+
+Composición visual
+Usa mucho espacio en blanco
+Mantén alineación limpia y ordenada
+Crea jerarquía clara entre título y subtítulo (mediante tamaño y color)
+No uses demasiados elementos decorativos
+Si agregas formas, que sean muy sutiles y orgánicas
+La composición debe verse serena, ordenada y elegante
+Todo el carrusel debe sentirse como una sola serie
+
+Reglas de copy
+Titulares cortos
+Frases profundas pero simples
+Evita párrafos largos (2/3)
+Si hay más explicación, eso va en el caption, no en el diseño
+
+Lo que necesito de ti
+Proponer la estructura completa del carrusel slide por slide
+Escribir el texto exacto de cada slide
+Recomendar paleta de color
+Usar la tipografía exacta indicada
+Definir tamaños de letra
+Describir la composición visual de cada slide
+Simplificar cualquier cosa que se vea cargada
+
+Criterio final
+Quiero que el carrusel se vea:
+limpio
+tierno
+espiritual
+profesional
+muy fácil de leer
+bonito sin estar cargado
+coherente de principio a fin
